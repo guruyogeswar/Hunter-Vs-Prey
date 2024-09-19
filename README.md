@@ -1,6 +1,6 @@
 # Hunter Vs Prey AI
 
-This project is a game where you play as the Hunter with the goal of catching the Prey in the shortest amount of turns. The game environment contains two agents: the Prey and the Hunter.
+This project is a game where the Hunter with the goal of catching the Prey in the shortest amount of turns. The game environment contains two agents: the Prey and the Hunter.
 
 ## Key Features
 
